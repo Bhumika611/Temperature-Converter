@@ -65,8 +65,7 @@ python --version
 
 ---
 
-## 📸 Screenshots  
-*(Add your app preview image here if available)*  
+## 📸 Screenshots 
 
 <p align="center">
   <img src="output.png" alt="App Screenshot" width="500"/>
@@ -113,3 +112,4 @@ Currently exploring **Software Development**, **Python**, and **AI-based applica
 ---
 
 ⭐ *If you like this project, don’t forget to give it a star on GitHub!* ⭐
+
